@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">XMLPractice</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="button">Button</string>
+    <string name="slide1" />
+    <string name="slide4">slide 4</string>
+    <string name="slide3">slide 3</string>
+    <string name="slide5">slide 5</string>
+    <string name="slide6">slide 6</string>
+    <string name="LoginScreen">login</string>
+    <string name="email">Email</string>
+    <string name="password">password</string>
+    <string name="Login">Login</string>
+</resources>
